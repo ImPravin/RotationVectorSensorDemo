@@ -1,0 +1,3 @@
+rootProject.name = "SensorDemo"
+include ':app'
+include ':mylibrary'
